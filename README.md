@@ -31,8 +31,8 @@ Visualize the filtered image using a suitable method (e.g., OpenCV's imshow, Mat
 
 ## Program:
 ```
-Developed By : SANJAY S
-Register Number: 212222230132
+Developed By : amrutha
+Register Number: 21222211004
 ```
 ## 1. Smoothing Filters
 i) Using Averaging Filter
